@@ -28,3 +28,9 @@ This is a simple landing page project created as part of [The Odin Project](http
 
 - This project is part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 - Fonts used: [Roboto](https://fonts.google.com/specimen/Roboto) and [Lato](https://fonts.google.com/specimen/Lato).
+
+## Author/Contact Information
+
+This project was developed by Derek Zhao. For any questions, feedback, or bug reports, please contact:
+- **Email**: derekzhao33@gmail.com
+- **GitHub**: [https://github.com/derekzhao33](https://github.com/derekzhao33)
