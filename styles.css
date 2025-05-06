@@ -20,7 +20,7 @@ body {
 }
 
 .top-image {
-  display: flex;
+  display: flex; 
   justify-content: center;
   align-items: center;
   background-color: lightgrey;
@@ -103,7 +103,7 @@ p {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 25px 25px 75px 25px;
+  padding: 25px 25px 40px 25px;
 }
 
 .mid-image {
