@@ -22,7 +22,7 @@ This is a simple landing page project created as part of [The Odin Project](http
 
 ## Screenshots
 
-![Screenshot of landing page](images\Landing-page-screenshot.png)
+![Screenshot of landing page](https://github.com/derekzhao33/LandingPage/blob/main/images/Landing-page-screenshot.png)
 
 ## Acknowledgments
 
